@@ -27,7 +27,7 @@ Wait... :D
 
 # Credits
 
-This code is nearly a copy from <ul>Advanced Penetration Testing<ul> 
+This code is nearly a copy from Advanced Penetration Testing 
 by Will Alsopp. This book has become an invaluable resource, and provides
 a fantastic theoretical framework from APT modeling that I intend to explore
 further. 
